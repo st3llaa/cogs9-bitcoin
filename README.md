@@ -13,5 +13,5 @@ This project analyzes the impact of U.S. CPI announcements on Bitcoin price move
 1. Clone the repo.
 2. Install dependencies:  
    `pip install -r requirements.txt`
-3. Run the notebook in `notebooks/bitcoin_cpi_analysis.ipynb`
+3. Run the notebook in `notebooks/cogs9.ipynb`
 
